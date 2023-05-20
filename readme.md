@@ -1,4 +1,5 @@
 # Project setup steps
+- clone the project
 - download Docker and start docker UI
 - open terminal and go to the root folder (as given below) of the project `book_management`
 - run command `docker-compose up` in terminal and wait for the project to be built
